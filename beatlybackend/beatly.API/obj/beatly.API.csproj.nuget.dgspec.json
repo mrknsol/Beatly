@@ -1,0 +1,327 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.API/beatly.API.csproj": {}
+  },
+  "projects": {
+    "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.API/beatly.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.API/beatly.API.csproj",
+        "projectName": "beatly.API",
+        "projectPath": "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.API/beatly.API.csproj",
+        "packagesPath": "/Users/mrknsol/.nuget/packages/",
+        "outputPath": "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mrknsol/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Application/beatly.Application.csproj": {
+                "projectPath": "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Application/beatly.Application.csproj"
+              },
+              "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Infrastructure/beatly.Infrastructure.csproj": {
+                "projectPath": "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Infrastructure/beatly.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.17.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.17.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Application/beatly.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Application/beatly.Application.csproj",
+        "projectName": "beatly.Application",
+        "projectPath": "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Application/beatly.Application.csproj",
+        "packagesPath": "/Users/mrknsol/.nuget/packages/",
+        "outputPath": "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mrknsol/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Core/beatly.Core.csproj": {
+                "projectPath": "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Core/beatly.Core.csproj"
+              },
+              "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Infrastructure/beatly.Infrastructure.csproj": {
+                "projectPath": "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Infrastructure/beatly.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.6, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.17.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.17.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Core/beatly.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Core/beatly.Core.csproj",
+        "projectName": "beatly.Core",
+        "projectPath": "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Core/beatly.Core.csproj",
+        "packagesPath": "/Users/mrknsol/.nuget/packages/",
+        "outputPath": "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mrknsol/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Infrastructure/beatly.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Infrastructure/beatly.Infrastructure.csproj",
+        "projectName": "beatly.Infrastructure",
+        "projectPath": "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Infrastructure/beatly.Infrastructure.csproj",
+        "packagesPath": "/Users/mrknsol/.nuget/packages/",
+        "outputPath": "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mrknsol/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Core/beatly.Core.csproj": {
+                "projectPath": "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Core/beatly.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

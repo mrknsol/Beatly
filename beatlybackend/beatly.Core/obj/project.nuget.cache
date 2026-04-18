@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XstAct8r8SM=",
+  "success": true,
+  "projectFilePath": "/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Core/beatly.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/mrknsol/.nuget/packages/bcrypt.net-next/4.1.0/bcrypt.net-next.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

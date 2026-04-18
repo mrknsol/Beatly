@@ -1,0 +1,17 @@
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Application/bin/Debug/net8.0/beatly.Application.deps.json
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Application/bin/Debug/net8.0/beatly.Application.dll
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Application/bin/Debug/net8.0/beatly.Application.pdb
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Application/bin/Debug/net8.0/beatly.Core.dll
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Application/bin/Debug/net8.0/beatly.Core.pdb
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Application/obj/Debug/net8.0/beatly.Application.csproj.AssemblyReference.cache
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Application/obj/Debug/net8.0/beatly.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Application/obj/Debug/net8.0/beatly.Application.AssemblyInfoInputs.cache
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Application/obj/Debug/net8.0/beatly.Application.AssemblyInfo.cs
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Application/obj/Debug/net8.0/beatly.Application.csproj.CoreCompileInputs.cache
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Application/obj/Debug/net8.0/beatly.A.CBE29462.Up2Date
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Application/obj/Debug/net8.0/beatly.Application.dll
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Application/obj/Debug/net8.0/refint/beatly.Application.dll
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Application/obj/Debug/net8.0/beatly.Application.pdb
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Application/obj/Debug/net8.0/ref/beatly.Application.dll
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Application/bin/Debug/net8.0/beatly.Infrastructure.dll
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Application/bin/Debug/net8.0/beatly.Infrastructure.pdb

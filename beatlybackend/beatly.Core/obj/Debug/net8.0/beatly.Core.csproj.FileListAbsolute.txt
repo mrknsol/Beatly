@@ -1,0 +1,12 @@
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Core/obj/Debug/net8.0/beatly.Core.csproj.AssemblyReference.cache
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Core/obj/Debug/net8.0/beatly.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Core/obj/Debug/net8.0/beatly.Core.AssemblyInfoInputs.cache
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Core/obj/Debug/net8.0/beatly.Core.AssemblyInfo.cs
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Core/obj/Debug/net8.0/beatly.Core.csproj.CoreCompileInputs.cache
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Core/bin/Debug/net8.0/beatly.Core.deps.json
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Core/bin/Debug/net8.0/beatly.Core.dll
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Core/bin/Debug/net8.0/beatly.Core.pdb
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Core/obj/Debug/net8.0/beatly.Core.dll
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Core/obj/Debug/net8.0/refint/beatly.Core.dll
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Core/obj/Debug/net8.0/beatly.Core.pdb
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Core/obj/Debug/net8.0/ref/beatly.Core.dll

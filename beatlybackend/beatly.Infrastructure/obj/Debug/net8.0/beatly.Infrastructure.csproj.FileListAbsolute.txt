@@ -1,0 +1,15 @@
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Infrastructure/bin/Debug/net8.0/beatly.Infrastructure.deps.json
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Infrastructure/bin/Debug/net8.0/beatly.Infrastructure.dll
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Infrastructure/bin/Debug/net8.0/beatly.Infrastructure.pdb
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Infrastructure/bin/Debug/net8.0/beatly.Core.dll
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Infrastructure/bin/Debug/net8.0/beatly.Core.pdb
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Infrastructure/obj/Debug/net8.0/beatly.Infrastructure.csproj.AssemblyReference.cache
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Infrastructure/obj/Debug/net8.0/beatly.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Infrastructure/obj/Debug/net8.0/beatly.Infrastructure.AssemblyInfoInputs.cache
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Infrastructure/obj/Debug/net8.0/beatly.Infrastructure.AssemblyInfo.cs
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Infrastructure/obj/Debug/net8.0/beatly.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Infrastructure/obj/Debug/net8.0/beatly.I.91A866E2.Up2Date
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Infrastructure/obj/Debug/net8.0/beatly.Infrastructure.dll
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Infrastructure/obj/Debug/net8.0/refint/beatly.Infrastructure.dll
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Infrastructure/obj/Debug/net8.0/beatly.Infrastructure.pdb
+/Users/mrknsol/Documents/ReactNative/template-project/beatlybackend/beatly.Infrastructure/obj/Debug/net8.0/ref/beatly.Infrastructure.dll
