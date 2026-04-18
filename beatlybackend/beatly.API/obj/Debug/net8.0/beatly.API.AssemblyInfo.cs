@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("beatly.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b937c250006aadbda00e9e40046b7b947948d41c")]
 [assembly: System.Reflection.AssemblyProductAttribute("beatly.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("beatly.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
